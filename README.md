@@ -31,8 +31,10 @@ npm install
 
   PASSWORD_ENCRYPTION_KEY = topsecret
 
-- Start the server
+## How to Start the server
 
 <pre>
 npm start
 </pre>
+
+This command runs the server in port 3000. You can connect to this port using a web browser.
