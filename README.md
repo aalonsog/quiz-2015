@@ -8,7 +8,14 @@
 	+ npm
 
  + Note: Both can be installed from (http://nodejs.org/download/)
- + Note: If you are using Ubuntu package manager we recommend to use http://www.ubuntuupdates.org/ppa/chris_lea_nodejs 
+ + Note: If you are using Ubuntu package manager we recommend to use [Chris Lea package](http://www.ubuntuupdates.org/ppa/chris_lea_nodejs):
+<pre>
+	sudo apt-get install make g++
+        sudo apt-get install python-software-properties
+        sudo add-apt-repository ppa:chris-lea/node.js
+        sudo apt-get update
+        sudo apt-get install nodejs
+</pre> 
 
 - Clone Quiz repository:
 
