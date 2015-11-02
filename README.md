@@ -6,8 +6,9 @@
 
 	+ nodejs 
 	+ npm
-	Note: Both can be installed from (http://nodejs.org/download/)
-	Note: If you are using Ubuntu package manager we recommend to use http://www.ubuntuupdates.org/ppa/chris_lea_nodejs 
+
+ + Note: Both can be installed from (http://nodejs.org/download/)
+ + Note: If you are using Ubuntu package manager we recommend to use http://www.ubuntuupdates.org/ppa/chris_lea_nodejs 
 
 - Clone Quiz repository:
 
