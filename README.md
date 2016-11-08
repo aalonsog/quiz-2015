@@ -32,8 +32,8 @@ npm install
 
 - Configure the ENV variable for the database depending on the one you want to use
 
-  + Postgres: DATABASE_URL = postgres://user:passwd@host:port/database
-  + SQLite:   DATABASE_URL = sqlite://:@:/
+  + Postgres: DATABASE_URL=postgres://user:passwd@host:port/database
+  + SQLite:   DATABASE_URL=sqlite://:@:/
 
 - Configure the ENV variable for encripting the passwords
 
