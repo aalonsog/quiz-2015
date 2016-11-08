@@ -37,7 +37,7 @@ npm install
 
 - Configure the ENV variable for encripting the passwords
 
-  PASSWORD_ENCRYPTION_KEY = topsecret
+  PASSWORD_ENCRYPTION_KEY=topsecret
 
 ## How to Start the server
 
